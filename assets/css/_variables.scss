@@ -1,0 +1,35 @@
+// FARBEN
+
+$brand-color-prim: #fff;
+$brand-color-sec: #fff;
+$brand-color-tir: #fff;
+$brand-color-contrast: #fff;
+$alert-color: #f00;
+$text-color-prim: #000;
+$text-color-sec: #000;
+$text-color-footer: #fff;
+$background-color: #000;
+$background-color-footer: #000;
+
+$gray-1: rgb(200,200,200);
+$gray-3: rgb(160,160,160);
+$gray-2: rgb(120,120,120);
+
+// GRÖSSEN
+
+$max-width: 1200px; // wird auch vom neat Grid verwendet
+$max-width-inner-container: 1000px;  // Für einzelne Module im Shop
+$max-width-text: 45em;
+$max-width-images: 80%;
+
+$inner-distance: 5%;
+
+// TYPO
+$font-family: Panton, "nudista-web", Arial, sans-serif;
+
+// BREAKPOINTS
+$bp-small: 549px;
+$bp-medium: 550px;
+$bp-large: 900px;
+$bp-xlarge: 1200px;
+$bp-xxlarge: 1500px;
